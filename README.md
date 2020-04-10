@@ -7,6 +7,7 @@ https://github.com/zfl9/ipt2socks
 
 Test on archlinux and asus ac86u merlin ... 
 
+```shell
 $ ipt2socks-go --help  // no help option and use long style please ... ~~~~
 usage: ipt2socks <options...>. the existing options are as follows:
  -s, --server-addr <addr>           socks5 server ip address, <required>
@@ -31,3 +32,4 @@ usage: ipt2socks <options...>. the existing options are as follows:
  -v, --verbose                      print verbose log, default: <disabled>
  -V, --version                      print ipt2socks version number and exit
  -h, --help                         print ipt2socks help information and exit
+```
